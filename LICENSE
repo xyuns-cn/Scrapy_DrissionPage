@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 Your Name
+Copyright (c) 2023 Xinnn
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -18,4 +18,9 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. 
+SOFTWARE.
+
+# 补充说明
+本项目遵循MIT许可证，明确允许：
+- 个人使用：任何个人可以自由使用、修改和分发本软件。
+- 商业用途：允许将本软件用于商业产品和服务，无需支付额外费用。 

@@ -439,6 +439,15 @@ DRISSIONPAGE_QUIT_ON_CLOSE = True  # 爬虫关闭时是否关闭浏览器
 DRISSIONPAGE_QUIT_SESSION_ON_CLOSE = True  # 爬虫关闭时是否关闭会话
 ```
 
+## 📄 许可证
+
+本项目采用 MIT 许可证，允许个人和商业使用。
+
+- **个人使用**：任何个人可以自由使用、修改和分发本软件。
+- **商业用途**：允许将本软件用于商业产品和服务，无需支付额外费用。
+
+查看完整的 [LICENSE](LICENSE) 文件获取更多信息。
+
 ---
 
 通过以上配置和示例，您可以开始使用Scrapy DrissionPage扩展工具进行高效的网页抓取。该工具结合了Scrapy的分布式抓取能力和DrissionPage的强大自动化功能，为您提供了一个强大而灵活的网络抓取解决方案。
